@@ -172,7 +172,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>com.jihene.parc.Runner</mainClass>
+              <mainClass>com.selmi.projet.Runner</mainClass>
             </manifest>
           </archive>
         </configuration>
